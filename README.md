@@ -1,4 +1,4 @@
-<h2 align="center">A passionate developer from Philippines</h2>
+<h2 align="center">A passionate developer from the Philippines</h2>
 
 <p>
   &nbsp;
