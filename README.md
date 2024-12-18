@@ -7,11 +7,6 @@
 </p>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://jelemiekun.framer.website/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="jelemikun" height="30" width="40" /></a></a>
-</p>
-<br>
 <h3 align="left">Skills</h3>
 <h4 align="left">Languages:</h4>
 <p align="left"> 
