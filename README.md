@@ -52,6 +52,12 @@
         <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/SDL2-%23007ACC.svg?style=for-the-badge&logo=sdl&logoColor=white" alt="SDL2"/>
         </a>
+        <a href="https://github.com/gabime/spdlog" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/spdlog-%2300A300.svg?style=for-the-badge&logo=spdlog&logoColor=white" alt="spdlog"/>
+        </a>
+        <a href="https://github.com/ocornut/imgui" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/ImGui-%238C008C.svg?style=for-the-badge&logo=imgui&logoColor=white" alt="ImGui"/>
+        </a>
       </p>
     </td>
   </tr>
