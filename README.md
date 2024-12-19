@@ -94,7 +94,7 @@
           <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="framer"/> 
         </a>
         <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/SceneBuilder-%23FFA500.svg?style=for-the-badge&logo=java&logoColor=white" alt="scene-builder"/>
+          <img src="https://img.shields.io/badge/Scene_Builder-%23FFA500.svg?style=for-the-badge&logo=java&logoColor=white" alt="scene-builder"/>
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> 
