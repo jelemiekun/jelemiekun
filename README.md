@@ -90,6 +90,9 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
         </a> 
+        <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/OpenGL-%2300599C.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+        </a>
         <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="framer"/> 
         </a>
