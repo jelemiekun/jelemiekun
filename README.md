@@ -27,6 +27,9 @@
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
         </a> 
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        </a>
       </p>
     </td>
   </tr>
