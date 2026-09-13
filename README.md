@@ -114,6 +114,9 @@
         <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal"/> 
         </a>
+        <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff" alt="unreal"/> 
+        </a>
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/> 
         </a>
