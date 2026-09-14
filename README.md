@@ -84,18 +84,53 @@
     </td>
   </tr>
   <tr>
-    <td style="border: none;"><h4>Other Technologies:</h4></td>
+    <td style="border: none;"><h4>IDEs & Editors:</h4></td>
     <td style="border: none;">
       <p>
         <a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/-NeoVim-black?style=for-the-badge&logo=neovim" alt="git"/>
         </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+        </a>
+        <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+        </a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+        </a>
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+<tr>
+    <td style="border: none;"><h4>Development Tools:</h4></td>
+    <td style="border: none;">
+      <p>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
         </a> 
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
         </a> 
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> 
+        </a> 
+        <a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="cmake"/>
+        </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/> 
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;"><h4>Other Technologies:</h4></td>
+    <td style="border: none;">
+      <p>
         <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/OpenGL-%2300599C.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
         </a>
@@ -104,12 +139,6 @@
         </a>
         <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Scene_Builder-%23FFA500.svg?style=for-the-badge&logo=java&logoColor=white" alt="scene-builder"/>
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> 
-        </a> 
-         <a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="cmake"/>
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
@@ -122,9 +151,6 @@
         </a>
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/> 
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/> 
         </a>
       </p>
     </td>
