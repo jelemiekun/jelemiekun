@@ -87,6 +87,9 @@
     <td style="border: none;"><h4>Other Technologies:</h4></td>
     <td style="border: none;">
       <p>
+        <a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/-NeoVim-black?style=for-the-badge&logo=neovim" alt="git"/>
+        </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
         </a> 
